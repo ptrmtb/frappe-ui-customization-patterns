@@ -78,7 +78,7 @@ graph TB
 sequenceDiagram
     participant User
     participant Browser
-    participant "Vue SPA<br/>(CRM/LMS)" as VueApp
+    participant "Vue SPA (CRM/LMS)" as VueApp
     participant "Frappe Backend" as Backend
     participant "Database" as DB
 
